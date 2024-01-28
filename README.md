@@ -4,4 +4,4 @@ This is a simple effect where it rains down ice spears from the sky. It's spawne
 
 --------------------------------------------------------------------------------------------------------------------
 
-![](Spear-Falling-Effect\Assets)
+![](Spear-Falling-Effect\Assets\fallingSpear.gif)
