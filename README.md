@@ -1,6 +1,6 @@
 # Spear Falling Effect
 
-## Preview
+## Preview:
 ![fallingSpear](https://github.com/Wigaloo/Spear-Falling-Effect/assets/147951408/9960c794-6ab0-4da8-b15b-6814f6aa85c8)
 
 ---------------------------------------------------------------------
