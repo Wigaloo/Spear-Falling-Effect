@@ -1,3 +1,5 @@
+
+--Credit: Jolly Sev (For some aspects of this code)
 --Services--
 local rp = game:GetService("ReplicatedStorage")
 local plr = game:GetService("Players")
